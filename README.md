@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @RegishShrestha
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning c++.
 - 💞️ I’m looking to collaborate on small projects.
 - 📫 How to reach me regishshrestha@gmail.com
 
