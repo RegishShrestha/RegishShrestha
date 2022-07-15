@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Regish Shrestha</h1>
 <h3 align="center">A passionate web developer from Nepal</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=regishshrestha" alt="regishshrestha" /></a> </p>
-
 - 🔭 I’m currently working on **Web 3**
 
 - 🌱 I’m currently learning **React framework**
