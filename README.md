@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Regish Shrestha</h1>
+<h1 align="center">Hi 👋, I'm <a scr="https://regishshrestha.github.io/cv/">Regish Shrestha</a></h1>
 <h3 align="center">A passionate web developer from Nepal</h3>
+
 
 - 🔭 I’m currently working on **Web 3**
 
@@ -11,7 +12,7 @@
 
 - 💬 Ask me about **python, js, dsa**
 
-- 📫 How to reach me **regishshrestha@gmail.com** "https://sage-mooncake-d72881.netlify.app"
+- 📫 How to reach me **regishshrestha@gmail.com** 
 
 - ⚡ Fun fact **I think I am funny**
 
