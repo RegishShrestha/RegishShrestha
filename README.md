@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **python, js, dsa**
 
-- 📫 How to reach me **regishshrestha@gmail.com** 
+- 📫 How to reach me **regishshrestha@gmail.com** https://regishshrestha.github.io/cv/
 
 - ⚡ Fun fact **I think I am funny**
 
