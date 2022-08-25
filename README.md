@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm <a href="https://regishshrestha.github.io/cv/">Regish Shrestha</a></h1>
-<h3 align="center">A passionate web developer from Nepal</h3>a
+<h3 align="center">A passionate web developer from Nepal</h3>
 
 
 - 🔭 I’m currently working on **Web 3**
