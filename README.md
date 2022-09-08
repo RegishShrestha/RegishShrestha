@@ -2,7 +2,7 @@
 <h3 align="center">A passionate web developer from Nepal</h3>
 
 
-- Follow me on Linkdin https://www.linkedin.com/in/regish-shrestha-22b696218/
+
 
 - 🔭 I’m currently working on **Web 3**
 
