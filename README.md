@@ -4,7 +4,7 @@
 
 
 
-- 🔭 I’m currently working on **Web 3**
+- 🔭 I’m currently working on **Web Dev**
 
 - 🌱 I’m currently learning **React framework**
 
