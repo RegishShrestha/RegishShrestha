@@ -17,6 +17,7 @@
 - 📫 How to reach me **regishshrestha@gmail.com** 
 
 - ⚡ Fun fact **I think I am funny**
+- ![](https://komarev.com/ghpvc/?username=Saksham010&style=flat-square)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
