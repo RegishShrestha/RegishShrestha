@@ -1,22 +1,17 @@
 <h1 align="center">Hi👋, I'm <a href="https://regishshrestha.github.io/cv/">Regish Shrestha </a></h1>
-<h3 align="center">A passionate web developer from Nepal</h3>
+<h3 align="center">A passionate developer from Nepal</h3>
 
 
 
 
 - 🔭 I’m currently working on **Web Dev**
 
-- 🌱 I’m currently learning **React framework**
+- 🌱 I’m currently learning **AI**
 
-- 👯 I’m looking to collaborate on **Python and Js projects**
-
-- 🤝 I’m looking for help with **django**
-
-- 💬 Ask me about **python, js, dsa**
+- 👯 I’m looking to collaborate on **ZK**
 
 - 📫 How to reach me **regishshrestha@gmail.com** 
 
-- ⚡ Fun fact **I think I am funny**
 - ![](https://komarev.com/ghpvc/?username=RegishShrestha&style=flat-square)
 
 <h3 align="left">Connect with me:</h3>
