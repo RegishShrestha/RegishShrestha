@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on **Web Development** and **AI Agents**
+- 🔭 I’m currently working on **Web Development**, **AI Agents** and as a **Freelancer**
 - 🌱 I’m currently learning **Artificial Intelligence & Deep Learning**
 - 👯 I’m looking to collaborate on **ZK & Open Source Projects**
 - 💬 Ask me about **React, Next.js, AWS, Python**
