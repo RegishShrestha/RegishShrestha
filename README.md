@@ -1,6 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Regish Shrestha</h1>
 <h3 align="center">Developer • AI Enthusiast • Research Learner from Nepal 🇳🇵</h3>
+<a href="www.regish.com.np"> www.regish.com.np</a>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=regishshrestha&label=Profile%20views&color=0e75b6&style=flat" alt="regishshrestha" />
